@@ -1,1 +1,1 @@
-# DevProject-RSS-Feed-Reader
+# Beginner RSS Feed Reader
